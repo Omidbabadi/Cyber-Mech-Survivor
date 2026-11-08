@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Survivor: Cyber Mechs",
+  "description": "Top-down sci-fi roguelite action game where you pilot an auto-firing cyber mech for 10 minutes against alien drone swarms, featuring offline idle income, mech hangar upgrades, and Yektanet Adivery rewarded ad monetization flows with complete Flutter Flame & Adivery SDK source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

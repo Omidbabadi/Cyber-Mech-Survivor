@@ -1,0 +1,18 @@
+name: pocket_survivor_cyber_mechs
+description: "Pocket Survivor: Cyber Mechs - 10-Min High-Action Roguelite with Yektanet Adivery Ads"
+publish_to: 'none'
+version: 1.2.0+2
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.18.0
+  adivery: ^4.6.2
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.0.0
+
+flutter:
+  uses-material-design: true
